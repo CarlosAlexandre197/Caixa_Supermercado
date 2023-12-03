@@ -10,7 +10,7 @@ menorp=0
 barato=" "
 p1000=0
 while True:
-    produto = str(input("Digite o nome do produto: "))
+    produto = str(input("informe o nome do produto: "))
     preço= float(input("Digite o preço: R$  "))
     soma+=preço
     contador+=1
