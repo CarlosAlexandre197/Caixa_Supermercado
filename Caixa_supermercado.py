@@ -11,7 +11,7 @@ barato=" "
 p1000=0
 while True:
     produto = str(input("informe o nome do produto: "))
-    preço= float(input("Digite o preço: R$  "))
+    preço= float(input("informe o preço: R$  "))
     soma+=preço
     contador+=1
     if preço > 1000:
