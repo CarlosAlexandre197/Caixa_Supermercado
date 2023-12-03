@@ -1,5 +1,5 @@
 print("-"*30)
-print("Supermecados Tarão CIA")
+print("Supermecados Família Tarão")
 print("-"*30)
 
 produto=" "
